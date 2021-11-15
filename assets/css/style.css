@@ -20,7 +20,7 @@
 /* quiz body section */
 
 body {
-    font-family: fantasy;
+    font-family: 'Courier New', Courier, monospace;
     background-color: #ffffff;
 }
 
@@ -44,7 +44,7 @@ button {
     border-radius: 5px;
     padding: 10px 16px 10px 16px;
     font-size: 18px;
-    font-family: fantasy, Arial, Helvetica, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     margin: 4px;
 }
 
